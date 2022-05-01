@@ -1,2 +1,2 @@
-# glasrow
-Rom like google glasses for phones. Repo for future.
+# Glasrow
+Rom like google glasses for phones. Repo for future. First build will be for Nexus 5
