@@ -4,7 +4,7 @@ Any problems please write to [issues](https://github.com/Russanandres/glasrow/is
 Firmware for phones trying to replicate XE7 firmware for Google Wear. Based on LightROM for Nexus 5.
 ## What for?
 Don't know. Hang your phone on your glasses?
-## Suggested devices:
+## Devices for which rom may be released:
 Nexus 4, Nexus 5, Galaxy S5363
 
 - Russian
